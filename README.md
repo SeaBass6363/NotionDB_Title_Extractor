@@ -40,4 +40,4 @@ python notion_title_extractor.py
 If you would like to contribute, fork the repo and submit a pull request 
 
 ## License 
-This script is licensed under the MIT License.
+This script is licensed under the [MIT License](LICENSE).
