@@ -1,5 +1,4 @@
-# Notion Book Title Extractor
-
+# Notion Database Title Extractor Script
 ## Table of Contents
 - [Description](#description)
 - [Required Files](#required-files)
