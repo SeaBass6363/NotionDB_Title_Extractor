@@ -8,7 +8,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-
+<br><br>
 
 ## Description 
 
@@ -18,7 +18,7 @@ This is irritating when wanting to copy the title of the rows in a notion databa
 
 For now this is just a simple python script that will remove all the fluff and leave you with the data with what is important (to me - the title) all separated by a new line for ease of reading. 
 
-
+<br>
 
 ## Required Files
 
@@ -31,7 +31,7 @@ This project requires the following files:
         
 **Choose one or the Other**
 
-
+<br>
 
 ## Installation
 To install the necessary dependencies, run the following:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ```
 
-
+<br>
 
 ## Usage
 Once the required files are downloaded, run the script by executing: 
@@ -49,12 +49,12 @@ Once the required files are downloaded, run the script by executing:
 python notion_title_extractor.py
 ```
 
-
+<br>
 
 ## Contributing
 If you would like to contribute, fork the repo and submit a pull request 
 
-
+<br>
 
 ## License 
 This script is licensed under the [MIT License](LICENSE).
